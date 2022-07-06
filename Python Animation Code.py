@@ -1,5 +1,4 @@
-Python 3.10.5 (tags/v3.10.5:f377153, Jun  6 2022, 16:14:13) [MSC v.1929 64 bit (AMD64)] on win32
-Type "help", "copyright", "credits" or "license()" for more information.
+
 import simplegui
 
 # Global Variables
@@ -198,4 +197,3 @@ frame.add_button("Part 4", toggle_snow4, 100)
 frame.add_button("Part 5", toggle_snow5, 100)
 frame.start()
 
-SyntaxError: multiple statements found while compiling a single statement
